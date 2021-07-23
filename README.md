@@ -24,8 +24,10 @@ What Better means in our Product/ Application are as follows:
 -Motivate users/patients to be part of the research by building up incentives for users to share their profile data, in terms of rewards (micro-payments or credits). In this way, users become owners of their data and can decide how their data is collected and used, as well as shared.
 
 # Product Specification:
+
 - A blockchain-based records system would empower patients to retain full control over their data, choosing when, and to whom, to grant permission to access their information.
 
 - Capable of storing and managing patient information in a verifiable manner, publicly accessible in real-time by anyone in the healthcare service provider chain (if authorized by the patient)
+
 -Provide an up-to-date, comprehensive picture of patient health, enabling physicians, pharmacies and other providers to provide better health care guidance to patients.
 
