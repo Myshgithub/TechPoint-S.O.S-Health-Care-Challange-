@@ -8,7 +8,7 @@ Provide better Health care service and data management to patients using Blockch
 
 All different but related scenarios can be as follow:
 
-Scenario 1: Primary patient care. 
+Scenario 1: Primary patient care.
 Scenario 2: Data aggregation for the research purposes and incentive the patient for sharing the data.
 Scenario 3: Connecting different healthcare players for better patient care.
 Better means: By employing blockchain technology, our solution allows to facilitate the consent management and speed up data transfer. We developed a chaincode that allows a patient to easily impose fine-grained access control policy for his data and enables efficient data sharing among clinicians/ Health care providers.
@@ -32,5 +32,5 @@ What Better means in our Product/ Application are as follows:
 
 - Capable of storing and managing patient information in a verifiable manner, publicly accessible in real-time by anyone in the healthcare service provider chain (if authorized by the patient).
 
--Provide an up-to-date, comprehensive picture of patient health, enabling physicians, pharmacies and other providers to provide better health care guidance to patients.
+- Provide an up-to-date, comprehensive picture of patient health, enabling physicians, pharmacies and other providers to provide better health care guidance to patients.
 
