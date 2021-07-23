@@ -34,3 +34,12 @@ What Better means in our Product/ Application are as follows:
 
 - Provide an up-to-date, comprehensive picture of patient health, enabling physicians, pharmacies and other providers to provide better health care guidance to patients.
 
+#
+
+# Methdology:
+
+# Design and prototyping links:
+
+-https://rooppatel175.wixsite.com/blockchain
+-
+
