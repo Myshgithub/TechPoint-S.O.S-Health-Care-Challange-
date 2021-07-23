@@ -8,14 +8,14 @@ Provide better Health care service and data management to patients using Blockch
 
 All different but related scenarios can be as follow:
 
-Scenario 1: Primary patient care.
-Scenario 2: Data aggregation for the research purposes and incentive the patient for sharing the data.
-Scenario 3: Connecting different healthcare players for better patient care.
-Better means: By employing blockchain technology, our solution allows to facilitate the consent management and speed up data transfer. We developed a chaincode that allows a patient to easily impose fine-grained access control policy for his data and enables efficient data sharing among clinicians/ Health care providers.
+- Scenario 1: Primary patient care.
+- Scenario 2: Data aggregation for the research purposes and incentive the patient for sharing the data.
+- Scenario 3: Connecting different healthcare players for better patient care.
+Better means: By employing blockchain technology, our solution allows to facilitate the consent management and speed up data transfer. We developed a chaincode that allows a - - patient to easily impose fine-grained access control policy for his data and enables efficient data sharing among clinicians/ Health care providers.
 
-Senario 4: Remote Health System for Patient Monitoring.
+- Senario 4: Remote Health System for Patient Monitoring.
 
-Senario 5: Digital Passport as response to Covid-19.
+- Senario 5: Digital Passport as response to Covid-19.
 
 # Name of Proposed Product:  Provide better Health care guidance to patients
 
