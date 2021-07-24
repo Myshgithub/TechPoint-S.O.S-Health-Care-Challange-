@@ -59,8 +59,11 @@ https://www.figma.com/proto/CcBKCBw9U7Pf6jggA1SmML/Provide-Better-Health-care-Gu
 -Nodes and Permissions(Smart Contract): https://www.figma.com/file/7Zn2f4jY6U4R4hYOMH63Kf/Nodes-and-Current-Permissions?node-id=0%3A1
 
 # Links to the Product Demo Execution and Presentation Videos:
+Off Chain- Membership service (User Interface):
 https://drive.google.com/file/d/1NQUJKP_vqwbcmNsyOrIQZWBxBXTwV3o9/view?usp=drivesdk
 
+
+Block Chain Side Prototyping on Figma: (ChainCode)
 https://drive.google.com/file/d/1fprjLdgDm6dnrwb6t8M0yMGpgzz0KSkB/view?usp=drivesdk
 
 
